@@ -2,5 +2,5 @@
 
 ## Результат первой практической работы
 
-[Моя первая практическая работа]([https://eff.org](https://siddasha.github.io/resume/))
+[Моя первая практическая работа](https://siddasha.github.io/resume/)
 
